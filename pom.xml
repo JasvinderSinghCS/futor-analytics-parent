@@ -20,7 +20,6 @@
 		<module>futor-analytics-domain</module>
 		<module>futor-analytics-mysql</module>
 		<module>futor-analytics-service</module>
-		<module>futor</module>
 	</modules>
 
 	<build>
